@@ -10,7 +10,7 @@ export default function handler(req, res) {
     mongoose.connect(
       "mongodb+srv://mahdi_lhj:Mahdikhalili1998@mahditest.qfstcje.mongodb.net/?retryWrites=true&w=majority&appName=mahdiTest",
       () => {
-        console.log("connected to DB");
+        console.log("connected to DB bah bah ");
       },
     );
     res.status(201).json(name);
