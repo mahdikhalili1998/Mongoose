@@ -1,4 +1,4 @@
-import { all } from "axios";
+
 import User from "../../../model/user";
 import connectDB from "../../../utils/connectDB";
 
