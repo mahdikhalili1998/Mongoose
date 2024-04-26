@@ -1,0 +1,9 @@
+.code {
+  background-image: linear-gradient(
+      to right,
+      rgba(0, 0, 0, 0.521),
+      rgba(0, 0, 0, 0.521)
+    ),
+    url(../public/images/code.webp);
+    height: 15rem;
+}
